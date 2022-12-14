@@ -12,7 +12,7 @@ flowchart TD
     -->
     array_create["string[] array = new string[size]"]
     -->
-    array_output[/Enter the size of the array/]
+    array_output[/Enter the array/]
     -->
     array_input[/array/]
     -->
